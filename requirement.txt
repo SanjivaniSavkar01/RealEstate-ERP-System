@@ -1,0 +1,52 @@
+Real Estate ERP using Django framework , fastAPI , my sql db , AIML concept with llm
+
+
+
+SDLC - Software Development Life Cycle
+1. Requirement Gathering (BDE-business development executive/,Marketing executive)
+2. Planning and Reporting: management team + project manager + content holder 
+    - synopsis : Project manager ko submit karte h
+    - SRS (software requirement specification) : for team to know about total requirement
+    - PRD(product requirement documents) : for client mou and reference
+3. Designing (UIUX | Prototype) : using figma / canva
+4.Implementation (actual designing + backend + db +API integration)
+   this process is done by - web developer
+                           - backend developer
+                           - API developer
+                           - Full stack developer
+5. Testing (unit-inhouse inside IT company and beta testing-client side testing): jobs -software testers
+                                                                                       -manual/automation testers
+    manual and automation testing
+6. Deployement : to pubish software/product using devops/aws/azure/cloud
+               job roles - devops engg
+                        - AWS developer
+                        - azure/cloud engg
+                        -ML Ops developer
+7. Maintainance/ technical support : - tech support engg
+                                     - data center engg
+                                    
+
+
+
+
+------------------------------REAL ESTATE PROJECT-------------------------
+Real Estate: Land, buildings, flats, commercial properties, construction projects, and their sales.
+ERP (Enterprise Resource Planning): Software that manages multiple business operations in one centralized system.
+
+Real Estate ERP (enterprise resource planning):
+1. site registration with location
+2. raw materials list with category registration
+3. labours registration 
+4. expenses 
+5. sales collection + GST
+6. customer registration
+7. purchase 
+8. Attendance
+9. salary distribution
+10. documentation/ Reporting
+11. site progress / status
+12. enquiries
+
+---------START TO PROJECT-----------
+
+1. create userdetails app

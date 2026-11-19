@@ -1,0 +1,46 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Real Estate App</title>
+</head>
+
+<body>
+
+    <!-- HEADER -->
+    <header>
+
+        <h1>Real Estate App</h1>
+
+        <nav>
+            <a href="{% url 'home' %}">Home</a>
+
+            <a href="{% url 'registration' %}">Registration</a>
+
+            <a href="{% url 'login' %}">Login</a>
+        </nav>
+
+    </header>
+
+    <hr>
+
+    <!-- PAGE CONTENT -->
+
+    {% block content %}
+
+    {% endblock %}
+
+    <hr>
+
+    <!-- FOOTER -->
+
+    <footer>
+        <h2>© 2026 RealEstate App All Rights Reserved!</h2>
+    </footer>
+
+</body>
+</html>
